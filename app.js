@@ -69,7 +69,7 @@ function delAll(){
     console.log(deleteAll);
     
     deleteAll.remove()
-    window.location.href = "http://127.0.0.1:5500/index.html"
+    window.location.href = "https://syedsuhaib1993.github.io/To-Do-App/"
 
     return
     
